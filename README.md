@@ -15,8 +15,3 @@ Originally built on Carrd; this repo is a self-contained mirror that can be host
 
 Push to GitHub and enable GitHub Pages, or drop the folder on any static host. No build step needed.
 
-## Links on the page
-
-- X: https://x.com/jayvital1
-- Instagram: https://www.instagram.com/aethercvlt
-- Email: jay@jayvital.com
