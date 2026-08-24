@@ -8,7 +8,7 @@ Originally built on Carrd; this repo is a self-contained mirror that can be host
 
 - `index.html` — the full page (styles + scripts inlined, same as the original build)
 - `assets/images/` — local images used by the page
-- Video gallery: 30 YouTube embeds + 1 TikTok embed (external iframes, work as-is)
+- Video gallery: 26 YouTube embeds + 1 TikTok embed (external iframes, work as-is)
 - Font: Bangers (loaded from Google Fonts)
 
 ## Deploy
